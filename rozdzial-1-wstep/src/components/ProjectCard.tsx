@@ -31,6 +31,3 @@ export default function ProjectCard({ title, description, technologies }: Projec
         </div>
     );
 }
-
-
-

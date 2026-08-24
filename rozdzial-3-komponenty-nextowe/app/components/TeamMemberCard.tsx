@@ -18,7 +18,7 @@ export default function TeamMemberCard({ name, role, bio, skills }: TeamMemberCa
   return (
     <div className="bg-white rounded-2xl shadow-lg p-5 flex flex-col gap-4 w-full sm:p-6 sm:gap-5 md:flex-row md:items-start md:gap-6 lg:p-8 lg:max-w-2xl max-w-sm sm:max-w-xl">
       <Image
-        src="/avatar.svg"
+        src="/avatar.jpg"
         alt={name}
         width={96}
         height={96}
